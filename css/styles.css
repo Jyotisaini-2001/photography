@@ -1,0 +1,71 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  }
+  .raj{
+    font-family: 'Sacramento', cursive;
+
+    position: relative;
+
+    color: blue;
+  }
+  .top-container{
+background-color:  #FDD2BF;
+  position:relative;
+  padding-top: 40px;
+  padding-bottom: 30px;
+
+
+}
+hr{
+color: blue;
+}
+.yes{
+  width: 550px;
+}
+.tab{
+  position: relative;
+  left: 250px;
+}
+.middle-container{
+
+position: relative;
+padding-top: 30px;
+padding-bottom: 30px;
+background-color:#346751;
+
+}
+.yab{
+  background-color:white ;
+  position: relative;
+
+}
+.we{
+  width: 600px;
+  height: 400px;
+  padding: 30px;
+}
+
+
+
+.oh{
+  position: relative;
+  left:240px;
+}
+
+
+
+.bottom-container{
+position: relative;
+
+background-color: #B4846C;
+padding-top: 30px;
+padding-bottom: 30px;
+
+}
+.icon{
+  width:30px;
+  text-decoration: underline;
+  color: white;
+}
